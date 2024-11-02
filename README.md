@@ -1,8 +1,13 @@
-# React + Vite
+# Keyword Search Engine - Google Scraper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a custom search engine where users can input a keyword, and the application scrapes Google search results to return relevant links. This tool provides quick access to Google search results directly in the app.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Search for keywords and receive direct Google search results.
+- Display links and brief descriptions from Google search.
+  
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
